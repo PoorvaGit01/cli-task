@@ -16,3 +16,5 @@ gem 'rubocop', '~> 1.66'
  
 # For Debugging
 gem 'pry', '~> 0.14.2'
+
+gem 'rspec', '~> 3.13'
